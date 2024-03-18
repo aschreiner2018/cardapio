@@ -1,0 +1,32 @@
+[
+    {
+        "nome": "Hamburger Smash",
+        "descricao": "Pão1 levinho de fermentação natual da Trigou, burger 160g, queijo prato e maionese da casa.",
+        "img": "./assets/hamb-1.png",
+        "preco": 18.90
+    },
+    {
+        "nome": "Hamburger Duplo",
+        "descricao": "Pão2 levinho de fermentação natual da Trigou, burger 160g, queijo prato e maionese da casa.",
+        "img": "./assets/hamb-2.png",
+        "preco": 32.90
+    },
+    {
+        "nome": "Hamburger Salad",
+        "descricao": "Pão3 levinho de fermentação natual da Trigou, burger 160g, queijo prato e maionese da casa.",
+        "img": "./assets/hamb-3.png",
+        "preco": 35.90
+    },
+    {
+        "nome": "Hamburger da Casa",
+        "descricao": "Pão5 levinho de fermentação natual da Trigou, burger 160g, queijo prato e maionese da casa.",
+        "img": "./assets/hamb-4.png",
+        "preco": 30.00
+    },
+    {
+        "nome": "Hamburger Monster",
+        "descricao": "Pão5 levinho de fermentação natual da Trigou, burger 160g, queijo prato e maionese da casa.",
+        "img": "./assets/hamb-4.png",
+        "preco": 60.00
+    }
+]
